@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\bin\Debug\net8.0\Solide.Service.deps.json
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\bin\Debug\net8.0\Solide.Service.runtimeconfig.json
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\bin\Debug\net8.0\Solide.Service.dll
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\bin\Debug\net8.0\Solide.Service.pdb
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.dll
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\refint\Solide.Service.dll
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.pdb
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\Solide.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Service\obj\Debug\net8.0\ref\Solide.Service.dll
