@@ -57,7 +57,7 @@ namespace Solide.Data
 
         public User Delete(int id)
         {
-            User user2 = _context.Users.First(u => u.Id == user.Id);
+            User user2 = _context.Users.First(u => u.Id == id);
             _context.Remove(user2);
             _context.SaveChanges();
             return user2;

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Solide.Data
-build_property.ProjectDir = C:\Users\USER\Desktop\פרוייקטים\C#_NEW\Solide.Net\Solide.Data\
+build_property.ProjectDir = C:\Users\USER\Desktop\פרוייקטים\CsharpLayeredProject\C#_NEW\Solide.Net\Solide.Data\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

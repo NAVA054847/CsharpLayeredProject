@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.service\\solide.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|solutionrelative:solide.service\\solide.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.api\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|solutionrelative:solide.api\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.api\\colorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|solutionrelative:solide.api\\colorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|solutionrelative:solide.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|solutionrelative:solide.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27A5757-2498-4338-A6D1-F8DD19B7F7E2}|Solide.Data\\Solide.Data.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27A5757-2498-4338-A6D1-F8DD19B7F7E2}|Solide.Data\\Solide.Data.csproj|solutionrelative:solide.data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.api\\imylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|solutionrelative:solide.api\\imylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27A5757-2498-4338-A6D1-F8DD19B7F7E2}|Solide.Data\\Solide.Data.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.data\\solide.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E27A5757-2498-4338-A6D1-F8DD19B7F7E2}|Solide.Data\\Solide.Data.csproj|solutionrelative:solide.data\\solide.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.service\\solide.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BFB2207-A5B9-44F9-91BC-5BF6CF3263A8}|Solide.Service\\Solide.Service.csproj|solutionrelative:solide.service\\solide.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27A5757-2498-4338-A6D1-F8DD19B7F7E2}|Solide.Data\\Solide.Data.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27A5757-2498-4338-A6D1-F8DD19B7F7E2}|Solide.Data\\Solide.Data.csproj|solutionrelative:solide.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\c#_new\\solide.net\\solide.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|c:\\users\\user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\csharplayeredproject\\c#_new\\solide.net\\solide.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5820BD0A-C0AE-402D-A174-80D7D20930F5}|Solide.Api\\Solide.Api.csproj|solutionrelative:solide.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,95 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Solide.Data\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Data\\Entities\\User.cs",
-              "RelativeToolTip": "Solide.Data\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:01:02.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Data\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Solide.Data\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Data\\UserRepository.cs",
-              "RelativeToolTip": "Solide.Data\\UserRepository.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAIwDUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:00:36.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Service\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Service\\UserService.cs",
               "RelativeDocumentMoniker": "Solide.Service\\UserService.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Service\\UserService.cs",
               "RelativeToolTip": "Solide.Service\\UserService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAADwvysAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T08:59:21.351Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ColorLogger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\ColorLogger.cs",
+              "RelativeDocumentMoniker": "Solide.Api\\ColorLogger.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\ColorLogger.cs",
+              "RelativeToolTip": "Solide.Api\\ColorLogger.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:53:45.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "Solide.Api\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\Controllers\\NewController.cs",
+              "RelativeToolTip": "Solide.Api\\Controllers\\NewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:43:15.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMyLogger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\IMyLogger.cs",
+              "RelativeDocumentMoniker": "Solide.Api\\IMyLogger.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\IMyLogger.cs",
+              "RelativeToolTip": "Solide.Api\\IMyLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:34:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Api\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Solide.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Solide.Api\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T08:57:06.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Solide.Service",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Service\\Solide.Service.csproj",
+              "DocumentIndex": 5,
+              "Title": "Solide.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Service\\Solide.Service.csproj",
               "RelativeDocumentMoniker": "Solide.Service\\Solide.Service.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Service\\Solide.Service.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Service\\Solide.Service.csproj",
               "RelativeToolTip": "Solide.Service\\Solide.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-03T09:14:43.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Solide.Data",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Data\\Solide.Data.csproj",
-              "RelativeDocumentMoniker": "Solide.Data\\Solide.Data.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Data\\Solide.Data.csproj",
-              "RelativeToolTip": "Solide.Data\\Solide.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T09:00:12.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\Program.cs",
               "RelativeDocumentMoniker": "Solide.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\C#_NEW\\Solide.Net\\Solide.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\CsharpLayeredProject\\C#_NEW\\Solide.Net\\Solide.Api\\Program.cs",
               "RelativeToolTip": "Solide.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T10:29:32.47Z",
               "EditorCaption": ""
